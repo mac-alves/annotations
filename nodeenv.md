@@ -2,20 +2,20 @@
 **ja deve ter o virtualenv e virtualenvwrapper instalados**
 
 ## comandos
-  - cria um ambiente virtual
+  1.1 - cria um ambiente virtual
   - `mkvirtualenv env-node13`
   
-  - Ou entra em um ja criado
+  1.2 - Ou entra em um ja criado
   - `workon env-node13`
   
-  - instala o nodeenv
+  2 - instala o nodeenv
   - `pip install nodeenv`
   
-  - atribui o nodeenv ao ambiente virtual
+  3 - atribui o nodeenv ao ambiente virtual
   - `nodeenv --python-virtualenv`
   
-  - saia do ambente virtual
+  4 - saia do ambente virtual
   - `deactivate`
   
-  - entre novamente no ambiente virtual
+  5 - entre novamente no ambiente virtual
   - `workon env-node13`
