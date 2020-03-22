@@ -14,11 +14,11 @@
   3 - verifica a lista de verses de nodes disponiveis
   - `nodeenv --list`
   
-  3 - atribui o nodeenv ao ambiente virtual setando a versao do node
+  4 - atribui o nodeenv ao ambiente virtual setando a versao do node
   - `nodeenv --node=12.16.1 --python-virtualenv`
   
-  4 - saia do ambente virtual
+  5 - saia do ambente virtual
   - `deactivate`
   
-  5 - entre novamente no ambiente virtual
+  6 - entre novamente no ambiente virtual
   - `workon env-node13`
