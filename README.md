@@ -1,2 +1,3 @@
-# Lista de procedimentos para instalação de alguns pacotes importantes para desenvolvimento
-cada instrução é separada por aquivo.
+# Anotações
+Lista de procedimentos e instruções para determinados casos de uso.
+Cada arquivo é nomeado conforme especifica a instrução.
